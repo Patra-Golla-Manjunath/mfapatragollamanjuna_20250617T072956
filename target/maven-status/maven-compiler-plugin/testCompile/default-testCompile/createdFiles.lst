@@ -1,0 +1,4 @@
+com/libraryapp/test/functional/MainFunctionalTest.class
+com/libraryapp/test/utils/TestResults.class
+com/libraryapp/test/utils/TestUtils.class
+com/libraryapp/test/utils/TestCaseResultDto.class
